@@ -1,6 +1,6 @@
 # Nueva Lupe🍔🍴
 
-[Read this in english]()
+[Read this in english](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/README.EN.md)
 
 Nueva Lupe es una landing page de promoción que desarrollé para una roticeria pequeña de mi barrio.   
 
@@ -18,7 +18,7 @@ La idea surgió a partir de detectar ciertas falencias en el sitio web de la emp
 
 La página de la empresa se veía así:
 
-![El sitio anterior de Nueva Lupe](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio-web-anterior.jpg)
+![El sitio anterior de Nueva Lupe](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio_web_anterior.jpg)
 
 > Puedes visitar el sitio haciendo click [aquí](http://web.archive.org/web/20180818164144/http://www.nuevalupe.com/)
 
