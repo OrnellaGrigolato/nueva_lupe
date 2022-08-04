@@ -18,7 +18,7 @@ La idea surgió a partir de detectar ciertas falencias en el sitio web de la emp
 
 La página de la empresa se veía así:
 
-![El sitio anterior de Nueva Lupe](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio_web_anterior.jpeg)
+![El sitio anterior de Nueva Lupe](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio_web_anterior.jpg)
 
 > Puedes visitar el sitio haciendo click [aquí](http://web.archive.org/web/20180818164144/http://www.nuevalupe.com/)
 
