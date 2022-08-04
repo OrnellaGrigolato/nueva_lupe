@@ -1,7 +1,8 @@
 let boton = document.getElementById("icono");
 let enlaces = document.getElementById("enlaces");
-
 let contador = 0;
+
+//MENU FUNCTIONALLITY
 
 boton.addEventListener("click", function() {
     if (contador == 0) {
@@ -59,7 +60,7 @@ function cerrarMenu() {
 
 }
 
-
+//SCROOLL UP FUNCTIONALLITY
 //Get the button:
 mybutton = document.querySelector(".scrollup");
 
@@ -86,9 +87,7 @@ function topFunction() {
 }
 
 
-// ABRIR Y CERRAR ESPECIFICACIONES DEL MENU
-
-
+// OPEN AND CLOSE MENU
 for (let i = 0; i <= 9; i++) {
     menu(i);
 }
@@ -112,7 +111,7 @@ function menu(nro) {
 };
 
 
-// Actualizar año
+// UPDATE YEAR
 const date = new Date();
 
 console.log(date.getFullYear());
