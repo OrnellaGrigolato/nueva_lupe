@@ -18,7 +18,7 @@ The idea came from detecting certain flaws in the company's website. I noticed t
 
 The company's page looked like this:
 
-![Nueva Lupe's previous site](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio_web_anterior.jpg)
+![Nueva Lupe's previous site](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/img/Sitio_web_anterior.jpeg)
 
 > You can visit the site by clicking [here](http://web.archive.org/web/20180818164144/http://www.nuevalupe.com/)
 
