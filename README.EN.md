@@ -2,7 +2,7 @@
 
 [Leer esto en español](https://github.com/OrnellaGrigolato/nueva_lupe/blob/main/README.md)
 
-Nueva Lupe is a promotional landing page I developed for a small take out restourant in my neighborhood.   
+Nueva Lupe is a promotional landing page I developed for a small take out restaurant in my neighborhood.   
 
 <br/>
 
